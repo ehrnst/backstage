@@ -1,5 +1,13 @@
 # @backstage/plugin-kubernetes
 
+## 0.7.1-next.2
+
+### Patch Changes
+
+- f563b86a5b: Adds namespace column to Kubernetes error reporting table
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.3-next.2
+
 ## 0.7.1-next.1
 
 ### Patch Changes
